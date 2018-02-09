@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include<stdio.h
+void main()
 {
 char a1;
 printf("enter the alphabets");
